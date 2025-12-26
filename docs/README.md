@@ -5,6 +5,8 @@ This project is a master's capstone focused on classifying MMA actions from spar
 
 The final model achieves **97% classification accuracy** on held-out test data.
 
+*I currently only have my research paper and an AI generated slide deck of my research paper on here so far, the code for this project can be found in the appendix of my research paper. I am still working on putting the code on here too.
+
 ## Technical Summary
 - Pose estimation on video frames
 - Temporal sequence modeling using LSTMs
