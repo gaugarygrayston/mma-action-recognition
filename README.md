@@ -1,1 +1,0 @@
-# mma-action-recognition
