@@ -12,7 +12,7 @@ The final model achieves **97% classification accuracy** on held-out test data.
 - End-to-end training and evaluation pipeline
 
 ## Documents
-- 📄 Research Paper: docs/YOUR_PAPER_NAME.pdf
+- 📄 Research Paper: docs/research_paper.pdf
 - 📊 Slides: docs/YOUR_SLIDES_NAME.pdf
 
 ## Technologies
