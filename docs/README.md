@@ -13,7 +13,8 @@ The final model achieves **97% classification accuracy** on held-out test data.
 
 ## Documents
 - 📄 Research Paper: docs/research_paper.pdf
-- 📊 Slides: docs/slide_deck_ai_generated.pdf
+- 📊 Slides (AI generated): docs/slide_deck_ai_generated.pdf
+- 📊 Slides (not AI generated): https://drive.google.com/file/d/1lfKZhEtxtDc1Aw6Yw0uBXWvJZ7I_OJcZ/view?usp=drive_link
 
 ## Technologies
 - Python
