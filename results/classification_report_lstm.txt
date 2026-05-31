@@ -1,0 +1,11 @@
+              precision    recall  f1-score   support
+
+      ground       1.00      0.98      0.99        64
+        kick       0.98      0.98      0.98        56
+ not_engaged       0.97      0.99      0.98        70
+       punch       0.99      0.98      0.98        81
+    takedown       0.99      1.00      0.99        67
+
+    accuracy                           0.99       338
+   macro avg       0.99      0.99      0.99       338
+weighted avg       0.99      0.99      0.99       338

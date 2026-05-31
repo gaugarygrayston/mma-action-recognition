@@ -1,0 +1,5 @@
+{'closed_guard':'ground', 'open_guard':'ground', 'pin':'ground', 'submission':'ground',
+'front_kick':'kick', 'head_kick':'kick', 'leg_kick':'kick', 'mid_kick':'kick',
+'body_hook':'punch', 'jab':'punch', 'lead_hook':'punch', 'rear_hook':'punch', 'straight':'punch',
+'double_leg':'takedown', 'single_leg':'takedown', 'sprawl':'takedown',
+'not_engaged':'not_engaged'}

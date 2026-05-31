@@ -1,0 +1,22 @@
+# Data files
+data/*.zip
+data/*.tar.gz
+data/**/*.mp4
+data/**/*.avi
+
+# Model weights
+*.pth
+*.h5
+*.weights
+*.pkl
+
+# Cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+.venv/
+.venv/
