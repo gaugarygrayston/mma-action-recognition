@@ -58,18 +58,12 @@ Build a video from a directory of labeled frames:
 python 05_frames_to_video.py --input-dir data/labeled_frames_a13 --output-file results/labeled_frames_a13.mp4 --fps 20
 ```
 
-## Notes
-
-- The current scripts use `data/sorted_frames_a13` and `results/labeled_frames_a13` by default.
-- The notebooks are the recommended entry point for dataset exploration and model training.
-- Use `data/class_dictionary.txt` to inspect or modify the label simplification mapping.
-
 ## Offsite data & sample outputs
 
 The full training dataset and large sample output videos are hosted offsite and are not included in this repository to keep the repo size small. 
 
 ```
-Training dataset (frames): <DATA_DOWNLOAD_URL>
+Training dataset (frames): (https://www.kaggle.com/datasets/garygau/mma-sparring-training-data)
 ```
 
 The repository `.gitignore` excludes `data/` and `results/` by default so that large artifacts are not pushed. If you prefer to keep a small curated sample dataset in the repo, create `data/sample_frames/` and commit only that folder.
