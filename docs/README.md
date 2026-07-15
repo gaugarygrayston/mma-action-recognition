@@ -2,6 +2,12 @@
 
 This repository demonstrates a pose-based video movement classification workflow. It includes labeled frame datasets, feature extraction utilities, model training notebooks, and scripts for annotating frames and building output videos.
 
+
+
+https://github.com/user-attachments/assets/0a3c2d56-03e2-4228-9b04-a0057fe16a6d
+
+
+
 ## Repository structure
 
 - `research_paper` — full research paper documenting methodology, results, and findings.
