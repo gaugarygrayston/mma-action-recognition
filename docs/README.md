@@ -68,7 +68,7 @@ Training dataset (frames): (https://www.kaggle.com/datasets/garygau/mma-sparring
 
 The repository `.gitignore` excludes `data/` and `results/` by default so that large artifacts are not pushed. If you prefer to keep a small curated sample dataset in the repo, create `data/sample_frames/` and commit only that folder.
 
-## Output examples
+## Results
 
 - `results/classification_report_mlp.txt`
 - `results/classification_report_lstm.txt`
